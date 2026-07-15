@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "git": "git status && git add . && git commit -m 'git' && git status && git push && git status",
+    "git": "git status && git add . && git commit -m 'git' && git status && git push && git status && git log",
     "preview": "vite preview"
   },
   "dependencies": {
